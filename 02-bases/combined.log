@@ -1,0 +1,13 @@
+{"level":"info","message":"Hola mudo ","service":"user-service"}
+{"level":"info","message":"Hola mudo ","service":"user-service"}
+{"level":"info","message":"Hola mudo","service":"user-service"}
+{"level":"info","message":"Hola mudo","service":"user-service"}
+{"level":"info","message":"Hola mudo","service":"user-service"}
+{"level":"info","message":"Hola mudo","service":"app.js"}
+{"level":"info","message":"Hola mudo","service":"app.js"}
+{"level":"info","message":"Hola mudo","service":"app.js"}
+{"level":"error","message":"error Hola error","service":"app.js"}
+{"level":"info","message":"Hola mudo","service":"app.js"}
+{"at":"2024-10-13T20:15:24.140Z","level":"error","message":"error Hola error","service":"app.js"}
+{"level":"info","message":"Hola mudo","service":"app.js","timestamp":"2024-10-13T20:16:33.978Z"}
+{"level":"error","message":"error Hola error","service":"app.js","timestamp":"2024-10-13T20:16:33.980Z"}
