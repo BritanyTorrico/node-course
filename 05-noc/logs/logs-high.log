@@ -1,4 +1,3 @@
-{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:05:20.044Z"} 
-{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:05:20.045Z"} 
-{"message":"http://localhost:3000/posts is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:06:10.040Z"} 
-{"message":"http://localhost:3000/posts is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:06:10.041Z"} 
+{"message":"logs HIGH","level":"high","createdAt":"2024-10-15T18:58:20.435Z","origin":"check-service.ts"} 
+{"message":"Email not sent","level":"high","createdAt":"2024-10-15T19:23:20.832Z","origin":"email.service.ts"} 
+{"message":"Email not sent","level":"high","createdAt":"2024-10-15T19:23:20.833Z","origin":"email.service.ts"} 

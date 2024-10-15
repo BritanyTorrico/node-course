@@ -1,4 +1,8 @@
-{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:05:20.044Z"} 
-{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:05:20.045Z"} 
-{"message":"http://localhost:3000/posts is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:06:10.040Z"} 
-{"message":"http://localhost:3000/posts is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:06:10.041Z"} 
+{"message":"service https://google.com was working","level":"low","createdAt":"2024-10-15T18:58:15.517Z","origin":"check-service.ts"} 
+{"message":"service https://google.com was working","level":"low","createdAt":"2024-10-15T18:58:15.531Z","origin":"check-service.ts"} 
+{"message":"service https://google.com was working","level":"low","createdAt":"2024-10-15T18:58:20.414Z","origin":"check-service.ts"} 
+{"message":"service https://google.com was working","level":"low","createdAt":"2024-10-15T18:58:20.435Z","origin":"check-service.ts"} 
+{"message":"Email not sent","level":"high","createdAt":"2024-10-15T19:23:20.832Z","origin":"email.service.ts"} 
+{"message":"Email not sent","level":"high","createdAt":"2024-10-15T19:23:20.833Z","origin":"email.service.ts"} 
+{"message":"Email sent","level":"low","createdAt":"2024-10-15T19:26:20.527Z","origin":"email.service.ts"} 
+{"message":"Email sent","level":"low","createdAt":"2024-10-15T19:26:20.995Z","origin":"email.service.ts"} 
