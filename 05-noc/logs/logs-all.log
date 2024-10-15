@@ -1,0 +1,4 @@
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:05:20.044Z"} 
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:05:20.045Z"} 
+{"message":"http://localhost:3000/posts is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:06:10.040Z"} 
+{"message":"http://localhost:3000/posts is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-10-15T15:06:10.041Z"} 
