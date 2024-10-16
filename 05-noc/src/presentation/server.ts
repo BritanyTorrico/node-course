@@ -15,9 +15,10 @@ const fileSystemLogRepository = new LogRepositoryImpl(
 const emailService = new EmailService();
 export class Server {
   public static start() {
-    console.log("server started...");
+    console.log("server started.....");
 
-   new SendEmailLogs(emailService,fileSystemLogRepository).execute(['torricobritany2@gmail.com','201800149@est.umss.edu'])
+
+  //  new SendEmailLogs(emailService,fileSystemLogRepository).execute(['torricobritany2@gmail.com','201800149@est.umss.edu'])
      //!referencia para enviar correos electronico con los logs
     // const emailService = new EmailService(fileSystemLogRepository);
     // emailService.sendEmailWithFileSystemLogs(['torricobritany2@gmail.com','201800149@est.umss.edu'])
